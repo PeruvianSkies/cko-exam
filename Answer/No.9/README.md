@@ -89,9 +89,9 @@ $ kubectl -n testingns logs article-service-testing-75sr5
 
 
 █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
-█                                           █                                                                                                                          
-█     TESTING PLATFORM ~ ARTICLE SERVICE    █                                                                                                                          
-█                                           █                                                                                                                          
+█                                                                    █                                                                                                                          
+█     TESTING PLATFORM ~ ARTICLE SERVICE                             █                                                                                                                          
+█                                                                    █                                                                                                                          
 █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█                                                                                                                          
 
 Listening on article-service.production:8080
